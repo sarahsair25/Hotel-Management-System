@@ -20,6 +20,11 @@ A menu-driven Hotel Management System built using Python and Object-Oriented Pro
 ## How to Run
 1. Clone the repository
 2. Run:
+
+📌 Note  
+The `users.json` file is auto-generated when the application runs
+and is not included in the repository.
+
    python Hotelmainproject.py
 
    📌 Note
