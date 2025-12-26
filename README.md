@@ -22,5 +22,10 @@ A menu-driven Hotel Management System built using Python and Object-Oriented Pro
 2. Run:
    python Hotelmainproject.py
 
+   📌 Note
+The `users.json` file is **auto-generated** when the application runs.  
+
+
+
 ## Author
 Sarah Sair
